@@ -14,3 +14,5 @@ A simple Tic Tac Toe game built using HTML, CSS, and JavaScript to showcase and 
 - Improving UI using CSS Grid/Flexbox
 - Creating interactive browser-based games
 
+## 📸 Preview
+![Tic Tac Toe Game Screenshot](https://github.com/Sumitra-S/Tic-Tac-Toe-Game/blob/main/tic%20tac%20toe.png)
